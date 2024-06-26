@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: rougeexteriors
+Specification-Vendor: rougeexteriorssareus
+Specification-Version: 1
+Implementation-Title: RougeExteriors
+Implementation-Version: 1.1
+Implementation-Vendor: rougeexteriorssareus
+Implementation-Timestamp: 2024-02-17T19:44:49+0000
+

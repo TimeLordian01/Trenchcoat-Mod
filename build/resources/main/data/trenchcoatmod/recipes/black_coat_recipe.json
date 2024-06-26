@@ -1,0 +1,16 @@
+{
+  "group": "coats",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "trenchcoatmod:brown_coat_chestplate"
+    },
+    {
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "result": {
+    "item": "trenchcoatmod:black_coat_chestplate",
+    "count": 1
+  }
+}

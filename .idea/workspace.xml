@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9388ab58-dde3-43ae-ba4e-b9dd9a3d9337" name="Default Changelist" comment="Texture Variants and Console Fixes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Trenchcoat Mod" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Trenchcoat Mod" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RougeExteriorsCommission" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="1ufAVibXL28A1wvAPS908uQmwxQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.runClient Java 16.executor": "Debug",
+    "Application.runClient Java 8.executor": "Debug",
+    "Application.runClient.executor": "Debug",
+    "Gradle.Build MoreTimeCapsules-1.16.executor": "Run",
+    "Gradle.Build RougeExteriors.executor": "Run",
+    "Gradle.Build Trenchcoat Mod.executor": "Run",
+    "Gradle.Build WhovianLads.executor": "Run",
+    "Gradle.C:/Users/haydn/IdeaProjects/MoreTimeCapsules-1.16 [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.C:/Users/haydn/IdeaProjects/WhovianLads [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.F:/Models/Commissions/JackOfAllNames/RougeExteriors [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.MoreTimeCapsules-1.16 [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.MoreTimeCapsules-1.16 [:prepareRunClient].executor": "Run",
+    "Gradle.MoreTimeCapsules-1.16 [buildEnvironment].executor": "Run",
+    "Gradle.MoreTimeCapsules-1.16 [cleanEclipse].executor": "Run",
+    "Gradle.MoreTimeCapsules-1.16 [dependencies].executor": "Run",
+    "Gradle.MoreTimeCapsules-1.16 [downloadAssets].executor": "Run",
+    "Gradle.MoreTimeCapsules-1.16 [genIntellijRuns].executor": "Run",
+    "Gradle.MoreTimeCapsules-1.16 [prepareRunClient].executor": "Run",
+    "Gradle.MoreTimeCapsules-1.16 [runClient].executor": "Debug",
+    "Gradle.MoreTimeCapsulesMod-1.16 [genIntellijRuns].executor": "Run",
+    "Gradle.MoreTimeCapsulesMod-1.16 [runClient].executor": "Debug",
+    "Gradle.RougeExteriors [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.RougeExteriors [:prepareRunClient].executor": "Run",
+    "Gradle.RougeExteriors [build].executor": "Debug",
+    "Gradle.RougeExteriors [check].executor": "Run",
+    "Gradle.RougeExteriors [compileJava].executor": "Run",
+    "Gradle.RougeExteriors [components].executor": "Run",
+    "Gradle.RougeExteriors [createMcpToSrg].executor": "Run",
+    "Gradle.RougeExteriors [createSrgToMcp].executor": "Run",
+    "Gradle.RougeExteriors [dependentComponents].executor": "Run",
+    "Gradle.RougeExteriors [downloadAssets].executor": "Run",
+    "Gradle.RougeExteriors [downloadMCMeta].executor": "Run",
+    "Gradle.RougeExteriors [downloadMcpConfig].executor": "Run",
+    "Gradle.RougeExteriors [extractNatives].executor": "Run",
+    "Gradle.RougeExteriors [extractSrg].executor": "Run",
+    "Gradle.RougeExteriors [genIntellijRuns].executor": "Run",
+    "Gradle.RougeExteriors [init].executor": "Run",
+    "Gradle.RougeExteriors [model].executor": "Run",
+    "Gradle.RougeExteriors [prepareKotlinBuildScriptModel].executor": "Run",
+    "Gradle.RougeExteriors [processResources].executor": "Run",
+    "Gradle.RougeExteriors [processTestResources].executor": "Run",
+    "Gradle.RougeExteriors [reobfJar].executor": "Run",
+    "Gradle.RougeExteriors [wrapper].executor": "Run",
+    "Gradle.Trenchcoat Mod [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.Trenchcoat Mod [:prepareRunClient].executor": "Run",
+    "Gradle.WhovianLads [:createMcpToSrg :createMcpToSrg :createMcpToSrg].executor": "Run",
+    "Gradle.WhovianLads [:prepareRunClient].executor": "Run",
+    "Gradle.WhovianLads [build].executor": "Debug",
+    "Gradle.WhovianLads [clean].executor": "Run",
+    "JavaClassFindUsagesOptions.isFieldsUsages": "true",
+    "JavaClassFindUsagesOptions.isMethodsUsages": "true",
+    "JavaVariableFindUsagesOptions.isSearchForAccessors": "true",
+    "JavaVariableFindUsagesOptions.isSearchForTextOccurrences": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Models/Commissions/JackOfAllNames/Trench Coat Mod/Trenchcoat Mod/src/main/resources/data/trenchcoatmod/recipes",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Models\Commissions\JackOfAllNames\Trench Coat Mod\Trenchcoat Mod\src\main\resources\data\trenchcoatmod\recipes" />
+      <recent name="F:\Models\Commissions\JackOfAllNames\RougeExteriors\src\main\resources\assets\tardis" />
+      <recent name="F:\Models\Commissions\JackOfAllNames\RougeExteriors\src\main\resources\data\rougeexteriors\unlock_schematics\exteriors" />
+      <recent name="F:\Models\Commissions\JackOfAllNames\RougeExteriors\src\main\resources\data\rougeexteriors\recipes\spectrometer\exteriors" />
+      <recent name="F:\Models\Commissions\JackOfAllNames\RougeExteriors\src\main\resources\assets\rougeexteriors\blockstates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Models\Commissions\JackOfAllNames\RougeExteriors\src\main\resources\assets\rougeexteriors" />
+      <recent name="F:\Models\Commissions\JackOfAllNames\RougeExteriors\src\main\resources\assets\rougeexteriors\textures\gui\exteriors" />
+      <recent name="F:\Models\Commissions\JackOfAllNames\RougeExteriors\src\main\resources\assets\rougeexteriors\textures\maiden" />
+      <recent name="C:\Users\haydn\IdeaProjects\WhovianLads\src\main\resources\data\tardis\tags" />
+      <recent name="C:\Users\haydn\IdeaProjects\WhovianLads\src\main\resources\data\tardis\" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.thevale.whovianlads.client.models.interiordoors" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thevale.rougeexteriors.tileentities.exteriors" />
+      <recent name="com.thevale.rougeexteriors.client.renders.exteriors" />
+      <recent name="com.thevale.whovianlads.tileentities.exteriors" />
+      <recent name="com.thevale.whovianlads.client.renders.exteriors" />
+      <recent name="com.thevale.whovianlads.procedures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.runClient">
+    <configuration name="runClient Java 16" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump &quot;-Dos.name=Windows 10&quot; -Dos.version=10.0" />
+      <module name="RougeExteriors.main" />
+      <option name="PROGRAM_PARAMETERS" value="net.minecraftforge.userdev.LaunchTesting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RougeExteriors [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="RougeExteriors [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="check" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="RougeExteriors [genIntellijRuns]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="genIntellijRuns" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="RougeExteriors [processTestResources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="processTestResources" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="RougeExteriors [reobfJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="reobfJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.runClient Java 16" />
+      <item itemvalue="Application.runClient" />
+      <item itemvalue="Application.runData" />
+      <item itemvalue="Application.runServer" />
+      <item itemvalue="Gradle.RougeExteriors [build]" />
+      <item itemvalue="Gradle.RougeExteriors [check]" />
+      <item itemvalue="Gradle.RougeExteriors [genIntellijRuns]" />
+      <item itemvalue="Gradle.RougeExteriors [processTestResources]" />
+      <item itemvalue="Gradle.RougeExteriors [reobfJar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RougeExteriors [build]" />
+        <item itemvalue="Gradle.RougeExteriors [genIntellijRuns]" />
+        <item itemvalue="Gradle.RougeExteriors [check]" />
+        <item itemvalue="Gradle.RougeExteriors [reobfJar]" />
+        <item itemvalue="Gradle.RougeExteriors [processTestResources]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-e1d2075fd9a7-1fdd4b62" />
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+        <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9388ab58-dde3-43ae-ba4e-b9dd9a3d9337" name="Default Changelist" comment="" />
+      <created>1625046299580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625046299580</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1625109924508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625109924508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1625111379094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625111379094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="broke">
+      <created>1625171027232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625171027232</updated>
+    </task>
+    <task id="LOCAL-00004" summary="broke">
+      <created>1625174043152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625174043152</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new tt_capsule, and a lot of other shit">
+      <created>1625188918732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625188918733</updated>
+    </task>
+    <task id="LOCAL-00006" summary="texture variants might work? ive no idea">
+      <created>1625194129881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625194129881</updated>
+    </task>
+    <task id="LOCAL-00007" summary="odd stuff happened idk">
+      <created>1625194807722</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625194807722</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.spongepowered:mixin" />
+    <option featureType="dependencySupport" implementationName="java:net.minecraftforge:forge" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test" />
+    <MESSAGE value="broke" />
+    <MESSAGE value="new tt_capsule, and a lot of other shit" />
+    <MESSAGE value="texture variants might work? ive no idea" />
+    <MESSAGE value="odd stuff happened idk" />
+    <option name="LAST_COMMIT_MESSAGE" value="odd stuff happened idk" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
