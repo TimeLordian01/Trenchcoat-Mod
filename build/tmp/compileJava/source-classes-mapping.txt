@@ -85,13 +85,13 @@ com/thevale/trenchcoatmod/item/PurpleCoatItem.java
  com.thevale.trenchcoatmod.item.PurpleCoatItem$1
  com.thevale.trenchcoatmod.item.PurpleCoatItem$2
  com.thevale.trenchcoatmod.item.PurpleCoatItem$ModelTrenchcoat
-com/thevale/trenchcoatmod/item/BlackCoatItem.java
- com.thevale.trenchcoatmod.item.BlackCoatItem
- com.thevale.trenchcoatmod.item.BlackCoatItem$1
- com.thevale.trenchcoatmod.item.BlackCoatItem$2
- com.thevale.trenchcoatmod.item.BlackCoatItem$ModelTrenchcoat
 com/thevale/trenchcoatmod/item/BlueCoatItem.java
  com.thevale.trenchcoatmod.item.BlueCoatItem
  com.thevale.trenchcoatmod.item.BlueCoatItem$1
  com.thevale.trenchcoatmod.item.BlueCoatItem$2
  com.thevale.trenchcoatmod.item.BlueCoatItem$ModelTrenchcoat
+com/thevale/trenchcoatmod/item/BlackCoatItem.java
+ com.thevale.trenchcoatmod.item.BlackCoatItem
+ com.thevale.trenchcoatmod.item.BlackCoatItem$1
+ com.thevale.trenchcoatmod.item.BlackCoatItem$2
+ com.thevale.trenchcoatmod.item.BlackCoatItem$ModelTrenchcoat
